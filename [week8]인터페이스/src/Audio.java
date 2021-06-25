@@ -1,5 +1,5 @@
 
-public class Audio {
+public class Audio implements RemoteControl {
 	// 핑드
 	private int volume;
 	
@@ -14,7 +14,7 @@ public class Audio {
 	}
 	
 	//setVolume()  RemoteCountrol인터페이스의 추상 메소드의 실체 메소드
-	public void SetVolume(int volume) {
+	public void setVolume(int volume) {
 		if(volume>RemoteControl.MAX_VOLUME) {
 			this.volume = RemoteControl.MAX_VOLUME;
 		} else if(volume<RemoteControl.MIN_VOLUME) {
