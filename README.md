@@ -8,7 +8,7 @@
 
 ## 참여 스터디
 1. study HALLE (with whiteship)
-> 스터디 HALLE는 백기선님(whiteshup)이 리드하여 온라인(YOUTUBE 라이브 영상)으로 2020년 11월 14일 ~ 2021년 3월 15일까지 15주동안 진행된 스터디입니다.
+> 스터디 HALLE는 백기선님(whiteshup)이 리드하여 2020년 11월 14일 ~ 2021년 3월 15일까지 15주동안 온라인(YOUTUBE 라이브 영상)으로 진행된 스터디입니다.
 > study HALLE의 녹화본 영상은 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서 멤버십 가입 후 확인할 수 있습니다.
 
 <hr/>
