@@ -11,6 +11,23 @@
 > 스터디 HALLE는 백기선님(whiteshup)이 리드하여 2020년 11월 14일 ~ 2021년 3월 15일까지 15주동안 온라인(YOUTUBE 라이브 영상)으로 진행된 스터디입니다.
 > study HALLE의 녹화본 영상은 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서 멤버십 가입 후 확인할 수 있습니다.
 <br>
+#### 주차별 과제에 대하여 직접 정리한 글들
+* [1주차 JVM과 java기본 지식](https://straw961030.tistory.com/58?category=931093)
+* [2주차 java 데이터 타입, 변수 ,배열](https://straw961030.tistory.com/66?category=931093)
+* [3주차 java 연산자](https://straw961030.tistory.com/73?category=931093)
+* [4주차 java 제어문](https://straw961030.tistory.com/87?category=931093)
+* [5주차 java 클래스](https://straw961030.tistory.com/95?category=931093)
+* [6주차 java 상속](https://straw961030.tistory.com/113?category=931093)
+* [7주차 java 패키지](https://straw961030.tistory.com/117?category=931093)
+* [8주차 java 인터페이스](https://straw961030.tistory.com/128?category=931093)
+* [9주차 java 예외처리](https://straw961030.tistory.com/134?category=931093)
+* [10주차 java 애노테이션](https://straw961030.tistory.com/141?category=931093)
+* [11주차 java Enum](https://straw961030.tistory.com/148?category=931093)
+* [12주차 java 멀티스레드 프로그래밍](https://straw961030.tistory.com/150?category=931093)
+* [13주차 java I/O](https://straw961030.tistory.com/151?category=931093)
+* [14주차 java 제네릭](https://straw961030.tistory.com/152?category=931093)
+* [15주차 java 람다식](https://straw961030.tistory.com/153?category=931093)
+<
 <hr/>
 
 ## 온라인 강의
