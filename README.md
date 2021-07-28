@@ -12,7 +12,7 @@
 > study HALLE의 녹화본 영상은 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서 멤버십 가입 후 확인할 수 있습니다.
 <br>
 #### 주차별 과제에 대하여 직접 정리한 글들
-* [1주차 JVM과 java기본 지식](https://straw961030.tistory.com/58?category=931093)
+[1주차 JVM과 java기본 지식](https://straw961030.tistory.com/58?category=931093)
 * [2주차 java 데이터 타입, 변수 ,배열](https://straw961030.tistory.com/66?category=931093)
 * [3주차 java 연산자](https://straw961030.tistory.com/73?category=931093)
 * [4주차 java 제어문](https://straw961030.tistory.com/87?category=931093)
