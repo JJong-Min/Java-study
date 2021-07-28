@@ -10,7 +10,7 @@
 1. study HALLE (with whiteship)
 > 스터디 HALLE는 백기선님(whiteshup)이 리드하여 2020년 11월 14일 ~ 2021년 3월 15일까지 15주동안 온라인(YOUTUBE 라이브 영상)으로 진행된 스터디입니다.
 > study HALLE의 녹화본 영상은 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서 멤버십 가입 후 확인할 수 있습니다.
-<br/>
+
 #### 주차별 과제에 대하여 직접 정리한 글들
 * [1주차 JVM과 java기본 지식](https://straw961030.tistory.com/58?category=931093)
 * [2주차 java 데이터 타입, 변수 ,배열](https://straw961030.tistory.com/66?category=931093)
