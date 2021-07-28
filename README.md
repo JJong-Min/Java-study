@@ -5,7 +5,6 @@
 2. Effective java 3/E (조슈아 블로크 저/개앞맵시 역 | 인사이트(insight) | 2018년 11월 01일)
 <br>
 <hr/>
-<br>
 
 ## 참여 스터디
 1. study HALLE (with whiteship)
@@ -13,7 +12,6 @@
 > study HALLE의 녹화본 영상은 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서 멤버십 가입 후 확인할 수 있습니다.
 <br>
 <hr/>
-<br>
 
 ## 온라인 강의
 1. 만들어 가면서 배우는 JAVA 플레이그라운드
