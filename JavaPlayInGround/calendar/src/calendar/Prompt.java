@@ -11,10 +11,14 @@ public class Prompt {
         Scanner scanner = new Scanner(System.in);
 
         int month;
+        int year;
 
         while(true) {
+            System.out.println("년도을 입력하세요");
+            System.out.print("Year> ");
+            year = scanner.nextInt();
             System.out.println("달을 입력하세요");
-            System.out.print(PROMPT);
+            System.out.print("Month> ");
             month = scanner.nextInt();
             if (month == -1) {
                 break;
@@ -23,7 +27,7 @@ public class Prompt {
                 continue;
             }
 
-            calendar.printCalendar(2021, month);
+            calendar.printCalendar(year, month);
 
         }
 
