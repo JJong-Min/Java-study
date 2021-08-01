@@ -21,17 +21,23 @@ public class Calendar {
         }
     }
 
-    public void printCalendar(int year, int month) {
+    public void printCalendar(int year, int month , int weekday) {
+        int cnt = 0;
         System.out.printf("    <<%4d%3d>>\n", year, month);
         System.out.println(" SU MO TU WE TH FR SA");
         System.out.println("---------------------");
 
+        for(int i = 0; i<weekday; i++) {
+            System.out.print("   ");
+            cnt++;
+        }
 
         int maxDay = getMaxDayOfMonth(year, month);
 
         for (int i = 1; i <= maxDay; i++) {
             System.out.printf("%3d", i);
-            if (i%7 == 0) {
+            cnt++;
+            if (cnt%7 == 0) {
                 System.out.println();
             }
         }
