@@ -44,4 +44,5 @@
 2. **effectivejava3rd**폴더는 effective java 서적을 보면서 해당 서적이나 [백기선님 유튜브 채널](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)에서
    이펙티브 자바와 관련된 영상들에서 진행한 실습코드를 담은 폴더입니다.
 3. **JavaPlayInGround**폴더는 [만들어 가면서 배우는 JAVA 플레이그라운드](https://www.inflearn.com/course/java-codesquad#curriculum)를 수강하면서 요구사항에 맞추어 실습한 코드를      담은 폴더입니다.<br>
-   JavaPlayInGround폴더 안에 **gugudan**폴더는 강의의 **파트2. 구구단**을 보며 실습을 진행한 코드가 있습니다. 각각의 class에 대한 자세한 내용은 폴더 안의 리드미를 확인해주세요.
+   JavaPlayInGround폴더 안에 **gugudan**폴더는 강의의 **파트2. 구구단** 과제를 진행한 코드가 있습니다. 자세한 내용은 폴더 안의 리드미를 확인해주세요.
+   JavaPlayInGround폴더 안에 **calendar**폴더는 강의의 **파트3. 캘린더만들기** 과제를 진행한 코드가 있습니다. 자세한 내용은 폴더 안의 리드미를 확인해주세요.
