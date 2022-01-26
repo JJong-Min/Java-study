@@ -32,7 +32,7 @@ public class Program {
     }
 
     private static int[][] createLottosManual() {
-        
+
         return null;
     }
 
