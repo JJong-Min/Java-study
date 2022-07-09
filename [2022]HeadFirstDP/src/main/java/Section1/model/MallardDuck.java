@@ -1,6 +1,10 @@
-package Section1;
+package Section1.model;
 
-public class MallardDuck extends Duck{
+import Section1.Behavior.FlyWithWings;
+import Section1.Behavior.Quack;
+import Section1.model.Duck;
+
+public class MallardDuck extends Duck {
 
   public MallardDuck() {
     flyBehavior = new FlyWithWings();

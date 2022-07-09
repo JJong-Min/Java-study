@@ -1,4 +1,7 @@
-package Section1;
+package Section1.model;
+
+import Section1.Behavior.FlyBehavior;
+import Section1.Behavior.QuackBehavior;
 
 public abstract class Duck {
 
