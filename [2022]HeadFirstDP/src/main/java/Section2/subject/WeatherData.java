@@ -1,4 +1,4 @@
-package Section2;
+package Section2.subject;
 
 public class WeatherData {
 
