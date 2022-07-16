@@ -2,7 +2,6 @@ package Section2.observer;
 
 import Section2.display.DisplayElement;
 import Section2.subject.WeatherData;
-import java.net.http.WebSocketHandshakeException;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 
@@ -16,9 +15,9 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
   }
 
   @Override
-  public void update(float temp, float humidity, float pressure) {
-    this.temperature = temp;
-    this.humidity = humidity;
+  public void update() {
+    this.temperature = weatherData.getTemperature();
+    this.humidity = weatherData.getHumidity();
     display();
   }
 
