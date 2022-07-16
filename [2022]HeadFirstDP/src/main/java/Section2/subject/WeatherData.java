@@ -1,24 +1,55 @@
 package Section2.subject;
 
-public class WeatherData {
+import Section2.observer.Observer;
+import java.util.ArrayList;
+import java.util.List;
 
-  public float getTemperature() {
-    return 3.14f;
+public class WeatherData implements Subject {
+
+  private List<Observer> observers;
+  private float temperature;
+  private float pressure;
+  private float humidity;
+
+  public WeatherData() {
+    observers = new ArrayList<>();
   }
 
-  public float getPressure() {
-    return 3.14f;
+  @Override
+  public void registerObserver(Observer observer) {
+    observers.add(observer);
   }
 
-  public float getHumidity() {
-    return 3.14f;
+  @Override
+  public void removeObserver(Observer observer) {
+    observers.remove(observer);
+  }
+
+  @Override
+  public void notifyObservers() {
+    observers.forEach(observer -> observer.update(temperature, humidity, pressure));
   }
 
   public void measurementsChanged() {
-    float temperature = getTemperature();
-    float pressure = getPressure();
-    float humidity = getHumidity();
+    notifyObservers();
+  }
 
+  public float getTemperature() {
+    return temperature;
+  }
 
+  public float getPressure() {
+    return pressure;
+  }
+
+  public float getHumidity() {
+    return humidity;
+  }
+
+  public void setMeasurements(float temperature, float humidity, float pressure) {
+    this.temperature = temperature;
+    this.humidity = humidity;
+    this.pressure = pressure;
+    measurementsChanged();
   }
 }
