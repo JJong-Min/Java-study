@@ -2,19 +2,23 @@ package Section2;
 
 public class WeatherData {
 
-  public void getTemperature() {
-
+  public float getTemperature() {
+    return 3.14f;
   }
 
-  public void getPressure() {
-
+  public float getPressure() {
+    return 3.14f;
   }
 
-  public void getHumidity() {
-
+  public float getHumidity() {
+    return 3.14f;
   }
 
   public void measurementsChanged() {
+    float temperature = getTemperature();
+    float pressure = getPressure();
+    float humidity = getHumidity();
+
 
   }
 }
